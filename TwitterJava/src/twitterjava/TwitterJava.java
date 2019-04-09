@@ -45,6 +45,7 @@ int opcion;
                 }
                 break;
                 case 4: System.exit(0);
+                
             }
         }while(opcion!=4);
         
